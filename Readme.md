@@ -21,9 +21,9 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Front-end:**  
-![React.js](https://img.icons8.com/color/48/000000/react-native.png)
-![React Native](https://img.icons8.com/color/48/000000/react-native.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 **Back-end:**  
