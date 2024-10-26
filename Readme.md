@@ -61,7 +61,7 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="50"/>
-
+<img src="https://avatars.githubusercontent.com/u/17349883?s=280&v=4" width="50"/>
 </div>
 
 ---
@@ -90,6 +90,7 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 - **Role Highlights:**
   - Designed a user-friendly calendar UI for scheduling.
   - Contributed to diverse projects like salon booking and logistics applications.
+  - Provided strategic input's.
 
 ---
 
@@ -112,6 +113,8 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 ## 📫 Let's Connect!
 - **Email:** kalaiselvan574db@gmail.com
 - **GitHub:** [SHOOTDEAD](https://github.com/SHOOTDEAD)
+- **LeetCode** [Kalaiselvan574db](https://leetcode.com/u/kalaiselvan574db/)
+- **HackerRank** [Kalaiselvan574](https://www.hackerrank.com/profile/kalaiselvan574)
 
 ---
 
