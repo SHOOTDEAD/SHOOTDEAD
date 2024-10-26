@@ -113,8 +113,8 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 ## 📫 Let's Connect!
 - **Email:** kalaiselvan574db@gmail.com
 - **GitHub:** [SHOOTDEAD](https://github.com/SHOOTDEAD)
-- **LeetCode** [Kalaiselvan574db](https://leetcode.com/u/kalaiselvan574db/)
-- **HackerRank** [Kalaiselvan574](https://www.hackerrank.com/profile/kalaiselvan574)
+- **LeetCode:** [Kalaiselvan574db](https://leetcode.com/u/kalaiselvan574db/)
+- **HackerRank:** [Kalaiselvan574](https://www.hackerrank.com/profile/kalaiselvan574)
 
 ---
 
