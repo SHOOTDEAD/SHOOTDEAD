@@ -14,7 +14,9 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 ## 🚀 Technical Skills
 
 **Languages:**  
-- Python, JavaScript, TypeScript, Go, Rust
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Front-end:**  
 - React.js, React Native, Tailwind CSS
