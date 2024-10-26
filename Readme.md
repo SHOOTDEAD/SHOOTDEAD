@@ -25,14 +25,21 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 **Front-end:**  
 <div>
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
-<img src="https://everyday.codes/wp-content/uploads/2019/06/react-native-1024x631-1024x631.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" />
 </div>
 
+**Mobile:**  
+<div>
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
+</div>
 
 **Back-end:**  
-- FastAPI, Django, Gin
+<div>
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" width="50" />
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="50" />
+</div>
 
 **Databases:**  
 - MySQL, PostgreSQL, MariaDB, SQLite, Firebase
