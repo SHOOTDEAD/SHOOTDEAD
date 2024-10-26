@@ -22,10 +22,9 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 <img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50"/>
 </div>
 
-  
+   
+**Front-end:** 
 <div>
-  
-**Front-end:**
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" />
@@ -44,7 +43,11 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 </div>
 
 **Databases:**  
-- MySQL, PostgreSQL, MariaDB, SQLite, Firebase
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" />
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="50" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="50" />
+<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="50"/>
 
 **AI & ML:**  
 - Pandas, Polars, NumPy, Matplotlib, Scikit-learn, TensorFlow
