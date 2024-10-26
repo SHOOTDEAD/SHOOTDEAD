@@ -21,10 +21,14 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50"/>
 </div>
+
 **Front-end:**  
-![React.js](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-22D3EE?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div>
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feveryday.codes%2Ftutorials%2Fhow-to-do-background-geolocation-in-react-native%2F&psig=AOvVaw0bbIEg8kNc_jdxKxGImamA&ust=1730006889637000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCLgISoq4kDFQAAAAAdAAAAABAE" width="50" />
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" />
+<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" />
+</div>
 
 
 **Back-end:**  
