@@ -23,33 +23,33 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 </div>
 
    
-**Front-end:** 
+### Front-end: 
 <div>
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" />
 </div>
 
-**Mobile:**  
+### Mobile:  
 <div>
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
 </div>
 
-**Back-end:**  
+### Back-end:
 <div>
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" width="50" />
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="50" />
 </div>
 
-**Databases:**  
+### Databases: 
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" />
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="50" />
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="50"/>
 
-**AI & ML:**
+### AI & ML:
 <div>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="50" />
 <img src="https://ia601405.us.archive.org/32/items/github.com-pola-rs-polars_-_2022-12-15_12-31-00/cover.jpg" width="50" />
