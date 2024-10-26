@@ -13,9 +13,9 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 
 ## 🚀 Technical Skills
 
-### Languages:
+> ### Languages:
 
-> 
+
 
 <div style="marginLeft:10px">
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" />
