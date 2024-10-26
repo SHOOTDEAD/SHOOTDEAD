@@ -43,7 +43,7 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 </div>
 
 ### Databases: 
-<div style="margin-left: 20;">
+<div style="padding-left: 20;">
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" />
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="50" />
