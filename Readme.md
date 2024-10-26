@@ -25,7 +25,7 @@ I am a Computer Science student with a keen focus on AI and ML, dedicated to bui
 **Front-end:**  
 <div>
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feveryday.codes%2Ftutorials%2Fhow-to-do-background-geolocation-in-react-native%2F&psig=AOvVaw0bbIEg8kNc_jdxKxGImamA&ust=1730006889637000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCLgISoq4kDFQAAAAAdAAAAABAE" width="50" />
+<img src="https://everyday.codes/wp-content/uploads/2019/06/react-native-1024x631-1024x631.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" />
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" />
 </div>
